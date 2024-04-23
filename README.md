@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onur1993
-- 👀 I’m interested in java and backend technologies(spring, quarkus etc) 
-- 🌱 I’m currently learning quarkus
-- 💞️ I’m looking to collaborate on a project that uses quarkus
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning unity
+- 💞️ I’m looking to collaborate on a project that uses unity
 - 📫 reach me at onurbayram1993@gmail.com
 
 <!---
